@@ -1,0 +1,21 @@
+{
+  "name": "Chico Grill Indústria",
+  "short_name": "ChicoIndústria",
+  "description": "Produção própria de hambúrgueres, espetos e embutidos artesanais que abastecem mais de 40 unidades Chico Grill em São Paulo.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
